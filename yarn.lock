@@ -202,11 +202,12 @@
     execa "^0.9.0"
     lodash "^4.17.4"
 
-"@semantic-release/git@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@semantic-release/git/-/git-3.0.1.tgz#65a2cd7c8bdac74b91de2bd368957cf55033871f"
+"@semantic-release/git@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@semantic-release/git/-/git-4.0.0.tgz#c0ad37bbbffd150eda0251cedacdc7e21e8aa889"
   dependencies:
     "@semantic-release/error" "^2.1.0"
+    aggregate-error "^1.0.0"
     debug "^3.1.0"
     dir-glob "^2.0.0"
     execa "^0.9.0"
