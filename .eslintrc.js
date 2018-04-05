@@ -1,6 +1,7 @@
 const ERROR = 2;
 
 module.exports = {
+  parser: 'babel-eslint',
   env: {
     browser: true,
   },
@@ -12,5 +13,12 @@ module.exports = {
         devDependencies: true,
       },
     ],
+    'no-param-reassign': [ERROR, { props: false }],
+    'valid-jsdoc': [ERROR],
+  },
+  settings: {
+    react: {
+      pragma: 'h',
+    },
   },
 };
