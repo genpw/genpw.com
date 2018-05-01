@@ -61,7 +61,7 @@
     "@semantic-release/exec": "2.2.3",
     "@semantic-release/git": "4.0.2",
     "babel-cli": "6.26.0",
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "babel-eslint": "8.2.3",
     "babel-loader": "7.1.4",
     "babel-preset-env": "1.6.1",
