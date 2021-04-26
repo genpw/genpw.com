@@ -8285,9 +8285,10 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-picnic@6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/picnic/-/picnic-6.5.0.tgz#1e6e5a2d028b4f30222e0cafe4cc24078969ad36"
+picnic@6.5.5:
+  version "6.5.5"
+  resolved "https://registry.yarnpkg.com/picnic/-/picnic-6.5.5.tgz#0ae3d3d692edec1e1aa4f7a63893221f98827ed7"
+  integrity sha512-U23rCxul+6DfSnBbg2etvb2+p0wOpr2FLtpQWvwyEnad7kPdNhZuHGAh6ih2yrm9wG2umj0Os4DpNkLyQAduKA==
 
 pify@^2.0.0:
   version "2.3.0"
