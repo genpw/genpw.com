@@ -84,7 +84,7 @@
     "metalsmith-layouts": "2.1.0",
     "metalsmith-markdown": "0.2.2",
     "metalsmith-sass": "1.5.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.1",
     "modernizr": "3.6.0",
     "modernizr-loader": "1.0.1",
     "node-sass": "4.9.1",
